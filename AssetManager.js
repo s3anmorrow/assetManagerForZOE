@@ -46,7 +46,7 @@
 * > or call getSprite(id, framelabel) to jump to correct frame (stopped)
 *
 * > sounds are listed in manifest as ogg format but you include mp3 (and possibly wav)
-* > user soundsJS to access preloaded sounds in code
+* > use soundsJS to access preloaded sounds in code
 *
 * > getProgress() returns the progress of the loading of all assets in manifest as a decimal number (progress=1 means everything loaded)
 */
